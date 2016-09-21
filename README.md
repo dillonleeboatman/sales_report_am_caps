@@ -3,6 +3,7 @@ Our Northland CAPS Project, which is creating a system to pull data from Snacks 
 
 
 Team Members:
+
 Project Manager and Developer: Dillon Boatman
 
 Developer: Connor Bowley
